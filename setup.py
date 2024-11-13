@@ -27,4 +27,7 @@ setup(
         'Intended Audience :: Developers',
         'Programming Language :: Python :: Implementation :: MicroPython',
     ],
+    project_urls={
+        'github': 'https://github.com/DiegoBarajas/driver_bts7960',
+    },
 )
