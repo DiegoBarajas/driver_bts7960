@@ -1,0 +1,20 @@
+[project]
+name = "bts7960-micropython"
+version = "0.0.1"
+authors = [
+    { 
+        name="desaubv (Diego Barajas)", 
+        email="desaubv@gmail.com" 
+    },
+]
+description = "Project to manage H-Brigde model BTS7960 with micropython"
+readme = "README.md"
+classifiers=[
+    'Development Status :: 1 - Planning',
+    'Intended Audience :: Developers',
+    'Programming Language :: Python :: Implementation :: MicroPython',
+],
+keywords=["micropython", 'electronics', 'esp32', 'hbridge', 'h-bridge', 'bts7960'],
+
+[project.urls]
+Homepage = "https://github.com/DiegoBarajas/driver_bts7960"

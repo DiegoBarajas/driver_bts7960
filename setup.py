@@ -8,7 +8,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n"+fh.read()
 
 VERSION = "0.0.1"
-DESCRIPTION = "Project to manage H-Brigde model BTS7960 with ESP32 on micropython"
+DESCRIPTION = "Project to manage H-Brigde model BTS7960 with micropython"
 
 # Setting up
 setup(
